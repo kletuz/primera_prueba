@@ -1,5 +1,6 @@
 Cadáver Exquisito 1
 
+
 el toro del teclado 
 echó sus cuernos al agua 
                          que corría
@@ -15,4 +16,5 @@ echó sus cuernos al agua
 que no son infantes
 y quizás sean 
                         cybercabezas.
+
 
